@@ -1,0 +1,86 @@
+[
+    {
+        "id":101,
+        "name": "Anna",
+        "price": "5000",
+        "description": "Princess Anna, from 'Frozen'.",
+        "image": "assets/img/anna.jpg" 
+    },
+    {
+        "id":102,
+        "name": "Ariel",
+        "price": "5000",
+        "description": "Princess Ariel, from 'The Little Marmaid'.",
+        "image": "assets/img/ariel.jpg"
+    },
+    {
+        "id":103,
+        "name": "Aurora",
+        "price": "5000",
+        "description": "Princess Aurora, from 'Sleeping Beauty'.",
+        "image": "assets/img/aurora.jpg"
+    },
+    {
+        "id":104,
+        "name": "Belle",
+        "price": "5000",
+        "description": "Princess Belle, from 'Beauty and the Beast'.",
+        "image": "assets/img/belle 1.jpg"
+    },
+    {
+        "id":105,
+        "name": "Moana",
+        "price": "5000",
+        "description": "Princess Moana, from 'Moana'.",
+        "image": "assets/img/moana.jpg"
+    },
+    {
+        "id":106,
+        "name": "Mulan",
+        "price": "5000",
+        "description": "Princess Mulan, from 'Mulan'.",
+        "image": "assets/img/mulan.jpg"
+    },
+    {
+        "id":107,
+        "name": "Pocahontas",
+        "price": "5000",
+        "description": "Princess Pocahontas, from 'Pocahontas'.",
+        "image": "assets/img/pocahontas.jpg"
+    },
+    {
+        "id":108,
+        "name": "Rapunzel",
+        "price": "5000",
+        "description": "Princess Rapunzel, from 'Tangled'.",
+        "image": "assets/img/rapunzel.jpg"
+    },
+    {
+        "id":109,
+        "name": "Snow White",
+        "price": "5000",
+        "description": "Princess Snow White, from 'Snow White and the Seven Dwarfs'.",
+        "image": "assets/img/snowwhite.jpg"
+    },
+    {
+        "id":110,
+        "name": "Jasmine",
+        "price": "5000",
+        "description": "Princess Jasmine, from 'Aladdin'.",
+        "image": "assets/img/jasmine.jpg"
+    },
+    {
+        "id":111,
+        "name": "Merida",
+        "price": "5000",
+        "description": "Merida, from 'Brave'.",
+        "image": "assets/img/merida.jpg"
+    },
+    {
+        "id":112,
+        "name": "Elsa",
+        "price": "5000",
+        "description": "Princess Elsa, from 'Frozen'.",
+        "image": "assets/img/elsa.jpg"
+    }
+ ]
